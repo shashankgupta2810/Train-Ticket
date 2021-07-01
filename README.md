@@ -1,2 +1,5 @@
 # Train-Ticket
-Book  train ticket
+### PYTHON ####
+Booking train ticket.
+Check the status of booking, number of seat available,etc.
+
